@@ -75,7 +75,7 @@
 
 ### 📫 Contact
 
-- Telegram: [@your_tg_handle](https://t.me/tirlicurendui)
+- Telegram: [@tirlicurendui](https://t.me/tirlicurendui)
 
 </details>
 
@@ -116,6 +116,6 @@
 
 ### 📫 Контакты
 
-- Telegram: [@your_tg_handle](https://t.me/tirlicurendui)
+- Telegram: [@tirlicurendui](https://t.me/tirlicurendui)
 
 </details>
